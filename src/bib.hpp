@@ -2,3 +2,4 @@
 #define BIB_HPP
 int calcularFatorial(int n);
 #endif
+bool verificarPar(int n);
